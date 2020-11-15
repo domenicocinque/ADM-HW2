@@ -8,3 +8,4 @@ In order to excecute the code on all the months we did all the computation on a 
 - dateparsing (`pickle` maintains the `datetime` objects);
 - some groupby operations (like in RQ1).
 
+All the loaded preprocessed dataframes are explained in detail when loaded in the `main.ipynb`.
