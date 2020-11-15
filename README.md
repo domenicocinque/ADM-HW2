@@ -7,5 +7,6 @@ In order to excecute the code on all the months we did all the computation on a 
 - dateparsing (`pickle` maintains the `datetime` objects);
 - some groupby operations (like in RQ1).
 
-All the loaded preprocessed dataframes are explained in detail when loaded in the `main.ipynb`. In the `images` folder there are two screenshots of the s3 bucket with all the preprocessed files. 
+All the loaded preprocessed dataframes are explained in detail when loaded in the `main.ipynb`. In the `images` folder there are two screenshots of the s3 bucket with all the preprocessed files. Below there is the link for *nbviewer*
 
+> https://nbviewer.jupyter.org/github/domenicocinque/ADM-HW2/blob/main/MAIN_COMPLETO.ipynb
