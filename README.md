@@ -1,5 +1,6 @@
 # Homework 2 - eCommerce analytics
-============
+------------------
+
 This repository contains the files for the HW2. The `main.ipynb` file contains the answers organized in sections.
 
 ## Before we start
