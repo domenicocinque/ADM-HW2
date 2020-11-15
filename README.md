@@ -7,4 +7,8 @@ In order to excecute the code on all the months we did all the computation on a 
 - saving the files using the `pickle` module provided by Python. This permitted us to load faster the objects and save dataframes with already perfomed operations, like the `datetime` conversion;
 - performing some subsetting and heavy operations outside the notebook (e.g. groupby).
 
-
+creare colonne cat e subcat 
+date
+3 dataframe 1 con groupby e non duplicati
+tolto duplicati sessioni 
+tutto su s3
